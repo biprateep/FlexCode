@@ -1,3 +1,5 @@
+**Slightly modified version of FlexCode to use GPU when using XGBoost**
+
 Implementation of Flexible Conditional Density Estimator (FlexCode) in Python. See Izbicki, R.; Lee, A.B. [Converting High-Dimensional Regression to High-Dimensional Conditional Density Estimation](https://projecteuclid.org/euclid.ejs/1499133755). Electronic Journal of Statistics, 2017 for details. Port of the original [R package](https://github.com/rizbicki/FlexCoDE).
 
 
